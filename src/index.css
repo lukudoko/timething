@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import '@fontsource-variable/noto-sans';
+
+
+
+body {
+  margin: 0;
+  font-family: 'Noto Sans Variable', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
